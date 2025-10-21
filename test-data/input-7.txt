@@ -1,0 +1,5 @@
+# GT4500: primary: 10 töltet, hibaszázalék 0 (működik)
+#         secondary: 0 töltet (üres), hibaszázalék 0
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
