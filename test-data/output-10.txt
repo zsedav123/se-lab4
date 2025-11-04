@@ -1,2 +1,0 @@
-SUCCESS  # GT4500 created
-SUCCESS  # lövés: secondary (mert primary üres)

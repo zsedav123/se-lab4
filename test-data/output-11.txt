@@ -1,3 +1,2 @@
-SUCCESS  # GT4500 created
-SUCCESS  # 1. lövés: primary
-SUCCESS  # 2. lövés: secondary (← ezt teszteljük!)
+SUCCESS
+FAIL
