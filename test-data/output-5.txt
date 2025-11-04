@@ -1,0 +1,2 @@
+SUCCESS  # <- GT4500 created
+SUCCESS  # <- fires secondary, mert primary üres és wasPrimaryFiredLast == false

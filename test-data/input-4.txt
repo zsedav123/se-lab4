@@ -1,0 +1,3 @@
+# GT4500, primary üres, secondary nem üres, firingMode: ALL
+GT4500,0,0,10,0
+TORPEDO,ALL
